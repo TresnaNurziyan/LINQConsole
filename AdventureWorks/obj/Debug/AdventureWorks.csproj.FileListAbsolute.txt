@@ -1,0 +1,10 @@
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\AdventureWorks.exe.config
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\AdventureWorks.exe
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\AdventureWorks.pdb
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\EntityFramework.dll
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\EntityFramework.xml
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\obj\Debug\AdventureWorks.csprojResolveAssemblyReference.cache
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\obj\Debug\AdventureWorks.exe
+C:\Users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\AdventureWorks\obj\Debug\AdventureWorks.pdb

@@ -1,0 +1,10 @@
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntitiesApplication.exe.config
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntitiesApplication.exe
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntitiesApplication.pdb
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntityFramework.dll
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntityFramework.xml
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\obj\Debug\EntitiesApplication.csprojResolveAssemblyReference.cache
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\obj\Debug\EntitiesApplication.exe
+c:\users\tresna\documents\visual studio 2015\Projects\EntitiesApplication\EntitiesApplication\obj\Debug\EntitiesApplication.pdb
